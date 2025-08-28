@@ -2,4 +2,7 @@
 
 Team Name: FF123
 Robot Name: TT96
-Robot Purpose Statement: Moblie ramp car with a steel mallet made to destroy other robots
+Robot Purpose Statement: Mobile ramp car wi
+
+
+![blueprint]()
