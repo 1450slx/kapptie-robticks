@@ -1,4 +1,4 @@
-# kapptie-robticks
+# Kapptie-Robticks
 
 Team Name: FF123
 Robot Name: debt collecter
