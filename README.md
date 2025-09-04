@@ -1,7 +1,7 @@
 # kapptie-robticks
 
-Team Name: FF123
-Robot Name: TT96
+Team Name: idk
+Robot Name: debt collecter
 Robot Purpose Statement: rectangular bot with a rotatable arm that will be able to pick items up and move them
 
 
