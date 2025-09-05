@@ -6,7 +6,7 @@ Robot Name: Debt Collecter
 
 Robot Purpose Statement: rectangular bot with a rotatable arm that will be able to pick items up and move them. The robot will be equiped with a basket or holder in order to ensure the item being transported will not fall out. it will be built with the motors on the bottom and the contanier and claw arm on the top. the claw arm will be used to put the object into the contanier. 
 
-
+![blueprint](https://github.com/user-attachments/assets/bc0f62a2-4463-4895-b12a-1912452b48d0)
 ![blueprint](https://github.com/1450slx/kapptie-robticks/blob/main/IMG_20250828_140014.jpg)
 ![blueprint](https://github.com/1450slx/kapptie-robticks/blob/main/IMG_20250828_140018.jpg)
 materials: https://docs.google.com/document/d/1zpvTbJ3wwL1DmWUX3KFMuqF-OTip3XTGcGMaVx_SdZ8/edit?tab=t.0
