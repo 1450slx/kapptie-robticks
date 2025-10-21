@@ -12,3 +12,4 @@ Robot Purpose Statement: rectangular bot with a rotatable arm that will be able 
 materials: https://docs.google.com/document/d/1zpvTbJ3wwL1DmWUX3KFMuqF-OTip3XTGcGMaVx_SdZ8/edit?tab=t.0
 <img width="582" height="776" alt="image" src="https://github.com/user-attachments/assets/51da15b6-7b2e-4cff-ad41-beb06f3e2698" />
 <img width="550" height="733" alt="image" src="https://github.com/user-attachments/assets/5fa3f083-776d-4458-80ea-85094a50e4c4" />
+<img width="543" height="724" alt="image" src="https://github.com/user-attachments/assets/946e9781-8b50-4d0d-9e27-018b74cd7a1a" />
