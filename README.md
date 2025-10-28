@@ -15,3 +15,5 @@ materials: https://docs.google.com/document/d/1zpvTbJ3wwL1DmWUX3KFMuqF-OTip3XTGc
 <img width="543" height="724" alt="image" src="https://github.com/user-attachments/assets/946e9781-8b50-4d0d-9e27-018b74cd7a1a" />
 <--- isaac dexter and TK 
 <img width="465" height="620" alt="image" src="https://github.com/user-attachments/assets/fc5b449b-bc22-47e4-a480-cbea43a50fc4" />
+<--- whole team
+<img width="544" height="725" alt="image" src="https://github.com/user-attachments/assets/404c24e6-6dcc-4f13-a0cd-a1dfb5a5ee55" />
