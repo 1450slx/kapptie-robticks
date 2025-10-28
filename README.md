@@ -17,3 +17,4 @@ materials: https://docs.google.com/document/d/1zpvTbJ3wwL1DmWUX3KFMuqF-OTip3XTGc
 <img width="465" height="620" alt="image" src="https://github.com/user-attachments/assets/fc5b449b-bc22-47e4-a480-cbea43a50fc4" />
 <--- whole team
 <img width="544" height="725" alt="image" src="https://github.com/user-attachments/assets/404c24e6-6dcc-4f13-a0cd-a1dfb5a5ee55" />
+![IMG_8052](https://github.com/user-attachments/assets/8493b955-3bac-41a4-9ac9-2d886fa97582)
