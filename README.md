@@ -22,4 +22,5 @@ materials: https://docs.google.com/document/d/1zpvTbJ3wwL1DmWUX3KFMuqF-OTip3XTGc
 <img width="544" height="725" alt="image" src="https://github.com/user-attachments/assets/404c24e6-6dcc-4f13-a0cd-a1dfb5a5ee55" />
 ![IMG_8052](https://github.com/user-attachments/assets/8493b955-3bac-41a4-9ac9-2d886fa97582)
 <img width="582" height="776" alt="image" src="https://github.com/user-attachments/assets/ccf0f3bc-acab-4f20-8d35-39cc28124ec8" />
+In between these photo we have experience issues with the claw build, So we change the whole claw arm set make the claw to working optimally.
 <img width="582" height="776" alt="image" src="https://github.com/user-attachments/assets/b9079a9e-8942-486a-bad0-2ac1cca25f44" />
